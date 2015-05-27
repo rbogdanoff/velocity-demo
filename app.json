@@ -1,6 +1,10 @@
 {
-  "name": "Patrick's Velocity Demo Site",
-  "description": "the testing env",
-  "repository": "https://github.com/patrickbm/velocity-demo",
-  "success_url": "/"
+  "name": "branch-testing-site",
+  "scripts": {},
+  "env": {
+    "LANG": {
+      "required": true
+    }
+  },
+  "addons": []
 }

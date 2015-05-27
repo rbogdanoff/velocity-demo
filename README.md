@@ -1,5 +1,4 @@
-!https://travis-ci.org/PatrickBM/velocity-demo.svg!:https://travis-ci.org/PatrickBM/velocity-demo
-
+[![Build Status](https://travis-ci.org/PatrickBM/velocity-demo.svg)](https://travis-ci.org/PatrickBM/velocity-demo)
 ### About
 This is a simple, Jekyll-powered site, intended for demo purposes. It integrates with [Travis CI](https://travis-ci.org) for CI. 
 

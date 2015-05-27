@@ -1,4 +1,4 @@
-[![Build Status](https://magnum.travis-ci.com/PatrickBM/simple-site.svg?token=3gCu5zKapAZ5BFQoRjkM&branch=master)](https://magnum.travis-ci.com/PatrickBM/simple-site)
+!https://travis-ci.org/PatrickBM/velocity-demo.svg!:https://travis-ci.org/PatrickBM/velocity-demo
 
 ### About
 This is a simple, Jekyll-powered site, intended for demo purposes. It integrates with [Travis CI](https://travis-ci.org) for CI. 

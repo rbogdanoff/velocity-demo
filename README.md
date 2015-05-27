@@ -15,4 +15,4 @@ You can view the output at `http://localhost:4000`.
 
 
 ### Contributing
-Please see [CONTRIBUTING.md](https://github.com/patrickbm/simple-site/blob/master/CONTRIBUTING.md).
+Please see [CONTRIBUTING.md](CONTRIBUTING.md).

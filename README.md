@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/PatrickBM/velocity-demo.svg)](https://travis-ci.org/PatrickBM/velocity-demo)
 ### About
-A simple, Jekyll-powered, demo [site](https://patrickbm-velocity.herokuapp.com). It uses [Travis CI](https://travis-ci.org) and [Heroku](https://devcenter.heroku.com/articles/github-integration). 
+A simple, [Jekyll](http://jekyllrb.com)-powered, demo [site](https://patrickbm-velocity.herokuapp.com). It uses [Travis CI](https://travis-ci.org) and [Heroku](https://devcenter.heroku.com/articles/github-integration). 
 
 
 ### Deploy Locally
